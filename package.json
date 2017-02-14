@@ -1,0 +1,23 @@
+{
+  "name": "lokavidya-database-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parse-dashboard --config ./parse-dashboard-config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiyanshKarani011235/lokavidya-database-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiyanshKarani011235/lokavidya-database-dashboard/issues"
+  },
+  "homepage": "https://github.com/RiyanshKarani011235/lokavidya-database-dashboard#readme",
+  "dependencies": {
+    "parse-dashboard": "^1.0.24"
+  }
+}
