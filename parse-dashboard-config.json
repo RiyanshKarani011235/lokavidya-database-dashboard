@@ -11,7 +11,8 @@
 	"users": [
 		{
 			"user":"admin",
-			"pass":"p@ssword"
+			"pass":"$2y$10$STgjmlDf1f44ehWV1UYNPOug88cWSxWujxDc1AoJvXYKfqGkGLc8S"
 		}
-	]
+	],
+	"useEncryptedPasswords": true
 }
