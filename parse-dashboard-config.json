@@ -1,10 +1,11 @@
 {
-  "apps": [
-    {
-      "serverURL": "https://lokavidya-heroku-server.herokuapp.com/parse",
-      "appId": "wpFAVTgYHZSrmGRFXzPwXZrBjE4btFgNYzOV",
-      "masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
-      "appName": "Lokavidya"
-    }
-  ]
+	"allowInsecureHTTP": true,
+	"apps": [
+		{
+			"serverURL": "https://lokavidya-heroku-server.herokuapp.com/parse",
+			"appId": "wpFAVTgYHZSrmGRFXzPwXZrBjE4btFgNYzOV",
+			"masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
+			"appName": "Lokavidya"
+		}
+	]
 }

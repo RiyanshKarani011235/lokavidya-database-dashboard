@@ -16,7 +16,7 @@ try {
 	throw(err);
 }
 
-var dashboard = new ParseDashboard(config);
+var dashboard = new ParseDashboard(config, config.allowInsecureHTTP);
 
 var app = express();
 app.set('port', PORT);
