@@ -6,9 +6,8 @@
 			"appId": "wpFAVTgYHZSrmGRFXzPwXZrBjE4btFgNYzOV",
 			"masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
 			"appName": "Lokavidya"
-		}
-	],
-	"apps": [
+		},
+		
 		{
 			"serverURL": "http://personal-use-jeffrey.herokuapp.com/parse",
 			"appId": "jeffrey",
