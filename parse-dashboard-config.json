@@ -8,6 +8,15 @@
 			"appName": "Lokavidya"
 		}
 	],
+	"apps": [
+		{
+			"serverURL": "http://personal-use-jeffrey.herokuapp.com/parse",
+			"appId": "jeffrey",
+			"masterKey": "jeffrey",
+			"appName": "personal-use-jeffrey"
+		}
+	],
+	
 	"users": [
 		{
 			"user":"admin",
