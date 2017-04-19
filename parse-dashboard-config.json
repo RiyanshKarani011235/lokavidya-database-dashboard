@@ -7,15 +7,22 @@
 			"masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
 			"appName": "Lokavidya"
 		},
-		
+
 		{
 			"serverURL": "http://personal-use-jeffrey.herokuapp.com/parse",
 			"appId": "jeffrey",
 			"masterKey": "jeffrey",
 			"appName": "personal-use-jeffrey"
+		},
+
+		{
+			"serverURL": "http://best-erp.com/lokavidya/parse",
+			"appId": "wpFAVTgYHZSrmGRFXzPwXZrBjE4btFgNYzOV",
+			"masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
+			"appName": "Lokavidya"
 		}
 	],
-	
+
 	"users": [
 		{
 			"user":"admin",
