@@ -16,11 +16,19 @@
 		},
 
 		{
-			"serverURL": "https://best-erp.com/lokavidya/parse",
+			"serverURL": "http://best-erp.com/lokavidya/parse",
 			"appId": "wpFAVTgYHZSrmGRFXzPwXZrBjE4btFgNYzOV",
 			"masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
 			"appName": "Lokavidya-best-erp"
-		}
+		},
+
+        {
+            "serverURL": "http://54.218.78.174:5000/parse",
+			"appId": "wpFAVTgYHZSrmGRFXzPwXZrBjE4btFgNYzOV",
+			"masterKey": "mqwTHlvm3ltnsUvwQzsI62dYDXGDKAYxONzM",
+            "appName": "Lokavidya EC2"
+        }
+
 	],
 
 	"users": [
@@ -29,5 +37,6 @@
 			"pass":"$2y$10$STgjmlDf1f44ehWV1UYNPOug88cWSxWujxDc1AoJvXYKfqGkGLc8S"
 		}
 	],
-	"useEncryptedPasswords": true
+	"useEncryptedPasswords": true,
+    "trustProxy": 1
 }

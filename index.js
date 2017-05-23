@@ -3,7 +3,8 @@ var ParseDashboard = require('parse-dashboard');
 var path = require('path');
 var fs = require('fs');
 
-const PORT = process.env.PORT || 5000;
+// const PORT = process.env.PORT || 5000;
+const PORT = 5001;
 
 var serverConfigDir = path.join(__dirname);
 var data = fs.readFileSync(path.join(serverConfigDir, 'parse-dashboard-config.json'));
